@@ -187,7 +187,9 @@ GROUP BY skills
 ORDER BY top_needed DESC
 LIMIT 10;
 ```
+## Query Result
 
+![Highest Paying Data Analyst Jobs](assets/analysis2_top_skills.png.png)
 ## Query Summary
 
 This analysis first identifies the twenty highest-paying Data Analyst positions using a Common Table Expression (CTE). It then joins those positions with the skills tables to retrieve every associated technical skill before aggregating the results to determine which skills appear most frequently among the highest-paying opportunities.
