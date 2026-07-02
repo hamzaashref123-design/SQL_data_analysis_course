@@ -104,7 +104,9 @@ WHERE (
 ORDER BY salary_year_avg DESC
 LIMIT 20;
 ```
+## Query Result
 
+![Highest Paying Data Analyst Jobs](assets/analysis1_highest_paying_jobs.png.png)
 ## Query Summary
 
 This query identifies the top 20 highest-paying Data Analyst positions by filtering job postings to include only remote opportunities or positions located in selected Middle Eastern countries. Company information is included by joining the job postings with the company table, while records without salary information are excluded to ensure meaningful salary comparisons.
