@@ -317,6 +317,8 @@ ORDER BY salary_year_avg DESC;
 ## Query Result
 
 
+![Highest Paying Data Analyst Jobs](assets/middle_east_jobs.png.png)
+
 ## Query Summary
 
 This query retrieves job postings from the selected Middle Eastern countries that include annual salary information, regardless of job title. By combining company information and ranking positions according to salary, the analysis provides a broader perspective on compensation across the regional job market.
