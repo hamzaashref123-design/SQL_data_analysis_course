@@ -310,13 +310,12 @@ WHERE
     )
     AND salary_year_avg IS NOT NULL
 
--- Uncomment the line below to display only Data Analyst roles
--- AND job_title_short = 'Data Analyst'
-
 ORDER BY salary_year_avg DESC;
 
 
 ```
+## Query Result
+
 
 ## Query Summary
 
