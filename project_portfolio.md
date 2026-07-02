@@ -254,6 +254,9 @@ GROUP BY skills
 ORDER BY demand_count DESC
 LIMIT 6;
 ```
+## Query Result
+
+![Highest Paying Data Analyst Jobs](assets/analysis3_skill_demand.png.png)
 
 ## Query Summary
 
